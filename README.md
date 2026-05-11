@@ -2,6 +2,8 @@
 
 Ссылка на проект: https://t.me/triumf_consult_bot
 
+![Скриншот1 (аватарка)](https://github.com/Favourite-88/ai_assistent/blob/main/%D0%A2%D0%A0%D0%98%D0%A3%D0%9C%D0%A4.jpg?raw=true)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![Qwen](https://img.shields.io/badge/Qwen-LLM-green.svg)](https://qwenlm.github.io/)
