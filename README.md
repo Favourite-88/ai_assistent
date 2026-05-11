@@ -1,5 +1,7 @@
 # 🤖 ИИ-ассистент для юридической компании
 
+Ссылка на проект: https://t.me/triumf_consult_bot
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![Qwen](https://img.shields.io/badge/Qwen-LLM-green.svg)](https://qwenlm.github.io/)
